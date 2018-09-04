@@ -1,5 +1,5 @@
 # Kingdomino-For-Queens
-A little kingdomino dataset for people who want to do some analysis. 
+A little kingdomino dataset for people who want to do some analysis. All the tiles, all the time.
 
 Each row has 9 fields: 
 -------
