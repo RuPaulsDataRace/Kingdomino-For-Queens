@@ -22,7 +22,7 @@ Some Quick and Easy Counts:
 | Water  | 15         | 18           | 6           | 6                          |
 | Grass  | 12         | 14           | 6           | 4                          |
 | Swamp  | 9          | 10           | 6           | 4                          |
-| Mine   | 6          | 6            | 7           | 4                          |
+| Mine   | 6          | 6            | 7           | 5                          |
 
 
 All Kingdomino Tiles in Order of Tile Number
